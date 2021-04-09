@@ -1,0 +1,130 @@
+body{
+    color: red;
+    background-color: burlywood;
+
+}
+.tag_list{
+    background-color: teal;
+}
+.table_heading{
+    color: red;
+    background-color: mediumaquamarine;
+}
+.row_1{
+    color: red;
+    background-color: rgb(128, 127, 224);
+}
+.row_3{
+    color: red;
+    background-color: violet;
+}
+.row_5{
+    color: red;
+    background-color: thistle;
+}
+.row_7{
+    color: red;
+    background-color: turquoise;
+}
+.row_9{
+    color: red;
+    background-color: rosybrown;
+}
+.row_11{
+    color: red;
+    background-color: royalblue;
+}
+.row_13{
+    color: red;
+    background-color: darkcyan;
+}
+.row_15{
+    color: red;
+    background-color: khaki;
+}
+.row_17{
+    color: red;
+    background-color: lightpink;
+}
+.row_19{
+    color: red;
+    background-color: cadetblue;
+}
+.row_21{
+    background-color: darkmagenta;
+}
+.row_23{
+    background-color: cyan;
+}
+.row_25{
+    background-color: darkorchid;
+}
+.row_27{
+    background-color: darksalmon;
+}
+.row_29{
+    background-color: darkslateblue;
+}
+.row_31{
+    background-color: dimgrey;
+}
+.row_33{
+    background-color: lightcoral;
+}
+.row_35{
+    background-color: wheat;
+}
+.row_37{
+    background-color: rgb(9, 110, 100);
+}
+.row_39{
+    background-color: steelblue;
+}
+.row_41{
+    background-color: rgb(156, 182, 135);
+}
+.row_43{
+    background-color: rosybrown;
+}
+.row_45{
+    background-color: rgb(54, 10, 5);
+}
+.row_47{
+    background-color: rgb(36, 22, 54);
+}
+.row_49{
+    background-color: rgb(153, 82, 96);
+}
+.row_50{
+    background-color: cornflowerblue;
+}
+.row_52{
+    background-color: rgb(120, 127, 141);
+}
+.row_54{
+    background-color: rgba(220, 214, 233, 0.39);
+}
+.row_56{
+    background-color: rgba(120, 143, 206, 0.322);
+}
+.row_58{
+    background-color: rgba(151, 103, 69, 0.822);
+}
+.row_60{
+    background-color: rgba(148, 179, 180, 0.452);
+}
+.row_62{
+    background-color: rgba(151, 139, 122, 0.836);
+}
+.row_64{
+    background-color: rgba(109, 64, 64, 0.815);
+}
+.row_66{
+    background-color: rgba(240, 184, 116, 0.651);
+}
+.row_68{
+    background-color: rgba(115, 194, 194, 0.829);
+}
+.row_70{
+    background-color: rgb(70, 79, 161);
+}
